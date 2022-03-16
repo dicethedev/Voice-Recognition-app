@@ -1,2 +1,2 @@
 # Voice-Recognition-app
-Voice Recognition app with Vuejs and Instructor TYLER POTS
+Voice Recognition app with Vuejs(Vitejs) and Instructor TYLER POTS
